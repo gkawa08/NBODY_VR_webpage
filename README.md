@@ -1,4 +1,4 @@
-# NBODY_VR
+# BH-VR Web Demo
 
 **WebXR-enabled 3D visualization for astrophysical N-body simulations.**
 Focusing on the dynamics of Black Holes (BH) and Neutron Stars (NS) in dense star clusters.
@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/9604ebf1-a64e-49ec-9564-df43e84dc77b
 ## 🚀 Live Demo
 You can experience the visualization directly in your browser. No installation required.
 
-**[Launch NBODY_VR](https://gkawa08.github.io/NBODY_VR/)**
+**[Launch the BH-VR Web Demo](https://gkawa08.github.io/NBODY_VR/)**
 
 ### Supported Devices
 * **Desktop / Mobile**: Interactive 3D view.
